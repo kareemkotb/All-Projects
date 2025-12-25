@@ -25,7 +25,7 @@ I am a Business Information / Data Science student with strong interest in:
 - **Dataset**: [Kaggle](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset)
 - **Repo**: [Link](https://github.com/kareemkotb/-Retail-Sales-Customer-Insights-Platform-)
 
-### OlistFull Stack Analysis Project
+### Olist Full Stack Analysis Project
 - **Skills**: EDA, SQL, Tableau, Python
 - **Dataset**: [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Repo**: [Link](https://github.com/kareemkotb/Olist-Full-Stack-Analysis-Project)
