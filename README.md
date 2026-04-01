@@ -34,6 +34,8 @@ I am a Business Information / Data Science student with strong interest in:
 ## 🔥 Projects
 1. [NYC-Restaurant Inspection Data Analysis](https://github.com/kareemkotb/NYC-Restaurant-Inspection-Data-Analysis-Project)
 2. [Medical Insurance](https://github.com/kareemkotb/Medical-Insurance)
+3. [Retail Sales Performance Analysis](https://github.com/kareemkotb/Retail-Sales-Performance-Analysis)
+
 
 ---
 ## 📫 Contact
